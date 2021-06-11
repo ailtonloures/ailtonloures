@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Ailton
 
-<!--
-**ailtonloures/ailtonloures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm Full-Stack Developer and I’m currently working at Fiocruz
 
-Here are some ideas to get you started:
+:house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ailtonloures)](https://github.com/ailtonloures)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)
+
+I am a Post-Graduate student in Software Engineering, I have a little over 4 years of experience in the area of ​​software development, I am challenged and passionate about technology.
+
+I had the experience of working with several technologies and programming languages, today I work as a Full Software Developer and providing services to Fiocruz, currently working on institutional projects and I also work as a maintainer on projects at Gitlab/Github.
+
+I tend to have an innovative instinct and always try to learn new things.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailtonloures&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonloures&layout=compact&theme=radical)](https://github.com/ailtonloures/github-readme-stats)
+
