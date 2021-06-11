@@ -1,6 +1,6 @@
 ### Hi, I'm Ailton
 
-:computer: I'm Full-Stack Developer and I’m currently working at Fiocruz
+:computer: I'm Full-Stack Developer and I’m currently working at Fiocruz (Oswaldo Cruz Foundation)
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
@@ -9,11 +9,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ailtonloures)](https://github.com/ailtonloures)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)
 
-I am a Post-Graduate student in Software Engineering, I have a little over 4 years of experience in the area of ​​software development, I am challenged and passionate about technology.
+Currently, I am taking a post-graduation course in Software Engineering and I have over 4 years of experience in Software Development. I'm always looking to take on a new challenge and I'm passionate about technology.
 
-I had the experience of working with several technologies and programming languages, today I work as a Full-Stack Developer and providing services to Fiocruz, currently working on institutional projects and I also work as a maintainer on projects at Gitlab/Github.
+I have experience working with several technologies and programming languages. Today, I am a Fullstack Software Developer and I'm also providing services for Fiocruz (Oswaldo Cruz Foundation) in institutional projects and projects management on Gitlab/Github. 
 
-I tend to have an innovative instinct and always try to learn new things.
+On top of this, I have an innovative instinct and I'm always looking forward to learning new things!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailtonloures&show_icons=true&theme=radical)
 
