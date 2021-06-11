@@ -11,7 +11,7 @@
 
 I am a Post-Graduate student in Software Engineering, I have a little over 4 years of experience in the area of ​​software development, I am challenged and passionate about technology.
 
-I had the experience of working with several technologies and programming languages, today I work as a Full Software Developer and providing services to Fiocruz, currently working on institutional projects and I also work as a maintainer on projects at Gitlab/Github.
+I had the experience of working with several technologies and programming languages, today I work as a Full-Stack Developer and providing services to Fiocruz, currently working on institutional projects and I also work as a maintainer on projects at Gitlab/Github.
 
 I tend to have an innovative instinct and always try to learn new things.
 
