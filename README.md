@@ -6,7 +6,6 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ailtonloures)](https://github.com/ailtonloures)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)
 
 Currently, I am taking a post-graduation course in Software Engineering and I have over 4 years of experience in Software Development. I'm always looking to take on a new challenge and I'm passionate about technology.
