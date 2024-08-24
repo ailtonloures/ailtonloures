@@ -1,17 +1,14 @@
-### Hi, I'm Ailton
-
-:computer: I'm Full-Stack Developer and I’m currently working at Stone Age (Tivit)
-
-:house_with_garden: I’m from Rio de Janeiro, Brazil.
+### Olá, me chamo Ailton
 
 ## About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)
 
-I have over 5 years of experience in Software Development. I'm always looking to take on a new challenge and I'm passionate about technology.
-I have experience working with several technologies and programming languages. Today, I am a Fullstack Software Developer 
+Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com tecnologias como JavaScript, NodeJs e todo seu ecosistema, gestão e automação de serviços em nuvem com AWS e ferramentas de Devops.
 
-On top of this, I have an innovative instinct and I'm always looking forward to learning new things!
+Tenho um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, automação de serviços operacionais, etc. Estou sempre em busca de novos desafios que me permitam continuar crescendo e contribuindo para soluções inovadoras.
+
+Hoje, além do trabalho, conduzo também uma comunidade de ensino focada em tecnologias. Chamada de "Academia Ninja", acompanho calouros que estão ingressando na área de Tecnologia da informação e os ajudo a se posicionarem no mercado como profissionais. Juntos idealizamos e desenvolvemos projetos para auto-capacitação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailtonloures&show_icons=true&theme=radical)
 
