@@ -1,6 +1,4 @@
-### Olá, me chamo Ailton
-
-## About me
+## Olá, me chamo Ailton
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)
 
