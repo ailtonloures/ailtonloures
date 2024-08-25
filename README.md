@@ -6,5 +6,5 @@ Tenho um histórico diversificado, incluindo projetos nos setores de entretenime
 
 Hoje, além do trabalho, conduzo também uma comunidade de ensino focada em tecnologias. Chamada de "Academia Ninja", acompanho calouros que estão ingressando na área de Tecnologia da informação e os ajudo a se posicionarem no mercado como profissionais. Juntos idealizamos e desenvolvemos projetos para auto-capacitação.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures-ferreira-bbab17174/)](https://www.linkedin.com/in/ailton-loures-bbab17174/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-loures)](https://www.linkedin.com/in/ailton-loures)
 
