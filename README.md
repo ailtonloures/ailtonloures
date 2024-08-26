@@ -1,6 +1,6 @@
 Olá, me chamo Ailton!
 
-Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com tecnologias como JavaScript, NodeJs e todo seu ecosistema, gestão e automação de serviços em nuvem com AWS e ferramentas de Devops.
+Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com tecnologias como JavaScript, NodeJs e todo seu ecosistema, gestão e automação de serviços em nuvem com AWS e ferramentas de DevOps.
 
 Tenho um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, automação de serviços operacionais, etc. Estou sempre em busca de novos desafios que me permitam continuar crescendo e contribuindo para soluções inovadoras.
 
