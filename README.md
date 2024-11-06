@@ -1,6 +1,6 @@
 # Ailton Loures
 
-Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com tecnologias como Python, C# (.Net), JavaScript (Node.js) e todo seu ecossistema, gestão e automação de serviços em nuvem com AWS e ferramentas de DevOps.
+Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com Node.js, TypeScript e todo ecossistema JavaScript, também atuo na gestão e automação de serviços em nuvem com AWS e ferramentas de DevOps.
 
 Tenho um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, operações de crédito, soluções de risco e antifraude, colaboração com projetos open source, etc. Estou sempre em busca de novos desafios que me permitam continuar crescendo e contribuindo para soluções inovadoras.
 
