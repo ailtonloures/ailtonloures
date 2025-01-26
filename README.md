@@ -1,10 +1,14 @@
 # Ailton Loures
 
-Atuo como engenheiro de software há mais de 5 anos, com habilidades sólidas em gestão de tempo, aprendizado rápido e trabalho em equipe. Trabalho principalmente com JavaScript, TypeScript e todo ecossistema Node.js, também atuo na gestão e automação de serviços em nuvem com AWS e ferramentas de DevOps.
+Vivo no Rio de Janeiro, tenho 25 anos e atuo como desenvolvedor de software desde 2017. 
 
-Tenho um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, operações de crédito, soluções de risco e antifraude, colaboração com projetos open source, etc. Estou sempre em busca de novos desafios que me permitam continuar crescendo e contribuindo para soluções inovadoras.
+Ao longo desses últimos anos de experiência, estive trabalhando em diversos projetos e desenvolvi habilidades sólidas em: gestão de tempo, aprendizado rápido, coordenação e trabalho em equipe. Com um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, soluções para operações de crédito, risco e antifraude.
 
-Hoje, além do trabalho, conduzo também uma comunidade de ensino focada em tecnologias. Chamada de "Academia Ninja", acompanho calouros que estão ingressando na área de Tecnologia da informação e os ajudo a se posicionarem no mercado como profissionais. Juntos idealizamos e desenvolvemos projetos para auto-capacitação.
+Tenho uma base sólida em linguagens de programação C#, Python, PHP, Shellscript, JavaScript, TypeScript e todo ecossistema do Node.js. Possuo experiência em desenvolvimento de softwares com arquiteturas modulares e monoliticas, processamento de dados, performance e integração entre serviços de Cloud (AWS e GCP) e APIs (Restful e Graphql).
+
+Sou formado em Sistemas para Internet desde 2019. Em 2021 fundei a Academia Ninja, comunidade focada em apoiar a carreira e estudos de calouros na faculdade e iniciantes da área de Tecnologia da Informação.
+
+Não vejo limites para o conhecimento, estou sempre em busca de novos desafios que me permitam continuar crescendo. Estou comprometido em desenvolver soluções inovadoras que impactem positivamente projetos e equipes, combinando criatividade, estratégia e dedicação.
 
 ## Contato
 <div>  
