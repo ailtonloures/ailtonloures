@@ -2,7 +2,7 @@
 
 Vivo no Rio de Janeiro, tenho 25 anos e atuo como desenvolvedor de software desde 2017. 
 
-Ao longo desses últimos anos de experiência, estive trabalhando em diversos projetos e desenvolvi habilidades sólidas em: gestão de tempo, aprendizado rápido, coordenação e trabalho em equipe. Com um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, soluções para operações de crédito, risco e antifraude.
+Ao longo desses últimos anos de experiência, estive trabalhando em diversos projetos e desenvolvi habilidades como comunicação ativa, gestão de projetos, gestão de tempo, aprendizado rápido, coordenação e trabalho em equipe. Com um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial, soluções para operações de crédito, risco e antifraude.
 
 Tenho uma base sólida nas linguagens de programação C#, Python, PHP, Shellscript, JavaScript, TypeScript e todo ecossistema do Node.js. Possuo experiência em arquitetura e desenvolvimento de softwares/APIs modulares e monoliticos, automação de fluxo de dados em larga escala, performance e integração entre serviços de Cloud (AWS e GCP) e APIs (Restful e Graphql).
 
