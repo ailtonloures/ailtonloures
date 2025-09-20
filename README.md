@@ -4,7 +4,7 @@ Vivo no Rio de Janeiro, tenho 26 anos e atuo como engenheiro de software desde 2
 
 Ao longo desses últimos anos de experiência, estive trabalhando em diversos projetos e desenvolvi minhas principais habilidades como comunicação ativa, gestão de projetos, gestão de tempo, aprendizado rápido, coordenação e trabalho em equipe. Com um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial e soluções para operações de crédito, risco, antifraude e CRM.
 
-Tenho uma base sólida em tecnologias como C#, Python, PHP, Shellscript, TypeScript e todo ecossistema do Node.js. Possuo experiência em gestão, arquitetura e desenvolvimento de softwares/APIs modulares, programação assíncrona, automação de fluxo de dados em larga escala, performance e integração entre serviços de Cloud (AWS e GCP).
+Tenho uma base sólida em tecnologias como Go, Python, PHP, TypeScript e todo ecossistema do Node.js. Possuo experiência em gestão, arquitetura e desenvolvimento de softwares/APIs modulares, programação assíncrona, automação de fluxo de dados em larga escala, performance e integração entre serviços de Cloud (AWS e GCP).
 
 Sou graduado em Sistemas para Internet desde 2019 pela Estácio. Em 2021 criei a comunidade Academia Ninja, focada em apoiar a carreira e estudos de calouros na faculdade e iniciantes da área de Tecnologia da Informação.
 
