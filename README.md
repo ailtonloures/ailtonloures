@@ -1,14 +1,12 @@
 # Ailton Loures
 
-Vivo no Rio de Janeiro, tenho 26 anos e atuo como engenheiro de software desde 2017. 
-
-Ao longo desses últimos anos de experiência, estive trabalhando em diversos projetos e desenvolvi minhas principais habilidades como comunicação ativa, gestão de projetos, gestão de tempo, aprendizado rápido, coordenação e trabalho em equipe. Com um histórico diversificado, incluindo projetos nos setores de entretenimento, acadêmico, gestão empresarial e soluções para operações de crédito, risco, antifraude e CRM.
-
-Tenho uma base sólida em tecnologias como Go, Python, PHP, TypeScript e todo ecossistema do Node.js. Possuo experiência em gestão, arquitetura e desenvolvimento de softwares/APIs modulares, programação assíncrona, automação de fluxo de dados em larga escala, performance e integração entre serviços de Cloud (AWS e GCP).
-
-Sou graduado em Sistemas para Internet desde 2019 pela Estácio. Em 2021 criei a comunidade Academia Ninja, focada em apoiar a carreira e estudos de calouros na faculdade e iniciantes da área de Tecnologia da Informação.
-
-Não vejo limites para o conhecimento, estou sempre em busca de novos desafios que me permitam continuar crescendo. Estou comprometido em desenvolver soluções inovadoras que impactem positivamente projetos e equipes, combinando criatividade, estratégia e dedicação.
+Engenheiro de software com 8+ anos de experiência construindo sistemas backend de alta disponibilidade para setores como fintech, saúde e crédito/risco. Especialista em arquitetura de APIs modulares, microsserviços e sistemas distribuídos, com domínio de Node.js, Python, Go e PHP.
+ 
+Atualmente lidero o desenvolvimento de arquiteturas para sistemas multi-agentes e orquestração de fluxos de IA na Hug Labs. Antes disso, passei 4 anos na TIVIT arquitetando soluções críticas para risco de crédito e onboarding, e 2 anos na Fiocruz desenvolvendo plataformas acadêmicas usadas por instituições de ensino em toda a América do Sul.
+ 
+Tenho experiência prática em cloud (AWS, GCP), containerização (Docker, Kubernetes), CI/CD e observabilidade (Grafana, Prometheus, ELK). Em 2021, fundei a comunidade Academia Ninja para apoiar calouros e iniciantes em TI — hoje reflete meu compromisso contínuo com aprendizado e mentoria.
+ 
+Aberto a conversas sobre arquitetura de software, sistemas distribuídos e IA aplicada a produtos reais.
 
 ## Contato
 <div>  
