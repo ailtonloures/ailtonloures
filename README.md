@@ -1,12 +1,12 @@
 # Ailton Loures
 
-Engenheiro de software com 8+ anos de experiência construindo sistemas backend de alta disponibilidade para setores como fintech, saúde e crédito/risco. Especialista em arquitetura de APIs modulares, microsserviços e sistemas distribuídos, com domínio de Node.js, Python, Go e PHP.
- 
-Atualmente lidero o desenvolvimento de arquiteturas para sistemas multi-agentes e orquestração de fluxos de IA na Hug Labs. Antes disso, passei 4 anos na TIVIT arquitetando soluções críticas para risco de crédito e onboarding, e 2 anos na Fiocruz desenvolvendo plataformas acadêmicas usadas por instituições de ensino em toda a América do Sul.
- 
-Tenho experiência prática em cloud (AWS, GCP), containerização (Docker, Kubernetes), CI/CD e observabilidade (Grafana, Prometheus, ELK). Em 2021, fundei a comunidade Academia Ninja para apoiar calouros e iniciantes em TI — hoje reflete meu compromisso contínuo com aprendizado e mentoria.
- 
-Aberto a conversas sobre arquitetura de software, sistemas distribuídos e IA aplicada a produtos reais.
+Engenheiro de software com mais de 8 anos de experiência construindo sistemas backend de alta disponibilidade para fintech, saúde e crédito/risco. Especialista em APIs modulares, microsserviços, sistemas distribuídos e sistemas multiagentes, com domínio de Node.js, Python, Go e PHP.
+
+Hoje lidero na Hug Labs projetos de IA aplicada, da definição da arquitetura à entrega em produção. Antes, passei 4 anos na TIVIT desenhando soluções críticas de risco de crédito e onboarding, e 2 anos na Fiocruz criando plataformas acadêmicas usadas por instituições de ensino em toda a América do Sul.
+
+Tenho experiência prática em cloud (AWS e GCP), containers (Docker e Kubernetes), CI/CD e observabilidade (Grafana, Prometheus e ELK). Em 2021, fundei a Academia Ninja, comunidade que apoia calouros e iniciantes em TI, e que reflete meu compromisso contínuo com aprendizado e mentoria.
+
+Aberto a conversar sobre arquitetura de software, sistemas distribuídos e IA aplicada a produtos reais.
 
 ## Contato
 <div>  
